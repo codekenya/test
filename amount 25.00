@@ -1,0 +1,13 @@
+amount	25.00
+callpay_transaction_id	66008105
+created	2022-07-15 08:10:19 
+currency	ZAR
+gateway_reference	091520151759
+gateway_response	{ "approvalcode": "Y:022700:1520151759:PPXX:379950", "avsresponse": "PPX", "brand": "VISA", "country": "KEN", "commercialserviceprovider": "FDMS-SA", "orderid": "A-679c41f3-87ac-47c8-b3d1-a4168324e417", "ipgtransactionid": "91520151759", "paymenttype": "CREDITCARD", "processorapprovalcode": "022700", "processorccvresponse": "X", "processorreferencenumber": "091520151759", "processorresponsecode": "00", "processorresponsemessage": "Function performed error-free", "tdate": "1657872623", "tdateformatted": "2022.07.15 10:10:23 (CEST)", "terminalid": "13000737", "transactionresult": "APPROVED", "transactiontime": "1657872623", "secure3dresponse": { "responsecode3dsecure": "1" }, "ipgBin": "8405" }
+is_demo_transaction	0
+merchant_reference	test
+organisation_id	12183
+reason	n/a
+status	complete
+success	1
+user	capewatchtsoga
